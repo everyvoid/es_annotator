@@ -23,7 +23,7 @@ NB) Tested in Safari. Works bad in Chrome.
     
     - `main.js` --> main JS file. Here all the libs are loaded.
     
-    - `./components/`:
+    - `./components`:
        
         - `history.vue` --> regarding history (lower placed div);
        
@@ -31,9 +31,10 @@ NB) Tested in Safari. Works bad in Chrome.
                           Also includes add/remove tag functions (used by
                           popover window) and update history function.
        
-        - `tag.vue` --> Here myTag is passed as a component and uses the right
+        - `tag.vue` --> here myTag is passed as a component and uses the right
                         passed props. This is the tag components used in App.vue.
        
-        - `tree.vue` --> Renders the (right placed div) list of temple@fields menu.
+        - `tree.vue` --> renders the (right placed div) list of temple@fields menu.
                          Also includes add/delete tag, update history functions.
     
+    - `./docs` --> the document file is loaded from this here. 
