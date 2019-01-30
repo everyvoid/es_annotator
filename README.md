@@ -5,7 +5,7 @@ A tag annotator prototype developed as a internship project for expertsystem.
 
 *** RUN PROJECT ***
 
-1) Download directory;
+1) Download `final_internship_ver` directory;
 2) Run `npm run serve` in `final_internship_ver`;
 3) Copy localhost port in your browser.
 
@@ -39,7 +39,7 @@ NB) Tested in Safari. Works bad in Chrome.
     
     - `./docs` --> the document file is loaded from this here.
     
-    * NB) Files ending with BU are not relevant backup files. *
+    NB) Files ending with BU are not relevant backup files.
     
 
 *** FRAMEWORKS AND STUFF ***
