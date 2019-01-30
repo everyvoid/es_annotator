@@ -37,4 +37,17 @@ NB) Tested in Safari. Works bad in Chrome.
         - `tree.vue` --> renders the (right placed div) list of temple@fields menu.
                          Also includes add/delete tag, update history functions.
     
-    - `./docs` --> the document file is loaded from this here. 
+    - `./docs` --> the document file is loaded from this here.
+    
+    *NB) Files ending with BU are not relevant backup files.*
+    
+
+*** FRAMEWORKS AND STUFF ***
+
+For this project I've been using:
+
+• Vue 2.0
+
+• Element UI
+
+• Vuex
