@@ -7,6 +7,7 @@ A tag annotator prototype developed as a internship project for expertsystem.
 
 1) Download `final_internship_ver` directory;
 2) Run `npm run serve` in `final_internship_ver`;
+2.1) run `npm install` if node_modules is missing;
 3) Copy localhost port in your browser.
 
 NB) Works good in Safari. Works bad in Chrome. Not working in Firefox.
