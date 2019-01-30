@@ -39,7 +39,7 @@ NB) Tested in Safari. Works bad in Chrome.
     
     - `./docs` --> the document file is loaded from this here.
     
-    *NB) Files ending with BU are not relevant backup files.*
+    * NB) Files ending with BU are not relevant backup files. *
     
 
 *** FRAMEWORKS AND STUFF ***
