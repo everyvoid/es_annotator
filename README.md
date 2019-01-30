@@ -9,7 +9,7 @@ A tag annotator prototype developed as a internship project for expertsystem.
 2) Run `npm run serve` in `final_internship_ver`;
 3) Copy localhost port in your browser.
 
-NB) Tested in Safari. Works bad in Chrome.
+NB) Works good in Safari. Works bad in Chrome. Not working in Firefox.
 
 
 *** IMPLEMENTATION ***
