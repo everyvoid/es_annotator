@@ -3,17 +3,18 @@
 A tag annotator prototype developed as a internship project for expertsystem.
 
 
-*** RUN PROJECT ***
+## RUN PROJECT
 
 1) Download `final_internship_ver` directory;
 2) Run `npm run serve` in `final_internship_ver`;
 2.1) run `npm install` if node_modules is missing;
 3) Copy localhost port in your browser.
 
-NB) Works good in Safari. Works bad in Chrome. Not working in Firefox.
+Works fine in Safari.
+Some problems in Chrome and Firefox.
 
 
-*** IMPLEMENTATION ***
+## IMPLEMENTATION 
 
 •   My code is placed in `src` directory:
     `es_annotator/final_internship_ver/src`
@@ -40,12 +41,12 @@ NB) Works good in Safari. Works bad in Chrome. Not working in Firefox.
     
     - `./docs` --> the document file is loaded from this here.
     
-    NB) Files ending with BU are not relevant backup files.
+    Files ending with BU are non relevant backup files.
     
 
-*** FRAMEWORKS AND STUFF ***
+## FRAMEWORKS AND STUFF
 
-For this project I've been using:
+For this project I've used:
 
 • Vue 2.0
 
