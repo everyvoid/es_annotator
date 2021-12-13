@@ -3,7 +3,7 @@
 A tag annotator prototype developed as a internship project for expertsystem.
 
 
-## RUN PROJECT
+## How to run the project
 
 1) Download `final_internship_ver` directory;
 2) Run `npm run serve` in `final_internship_ver`;
@@ -14,7 +14,7 @@ Works fine in Safari.
 Some problems in Chrome and Firefox.
 
 
-## IMPLEMENTATION 
+## Implementation
 
 •   My code is placed in `src` directory:
     `es_annotator/final_internship_ver/src`
@@ -44,7 +44,7 @@ Some problems in Chrome and Firefox.
     Files ending with BU are non relevant backup files.
     
 
-## FRAMEWORKS AND STUFF
+## Frameworks and other assets
 
 For this project I've used:
 
