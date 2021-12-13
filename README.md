@@ -1,4 +1,4 @@
-# es_annotator
+# es_annotator :memo:
 
 A tag annotator prototype developed as a internship project for expertsystem.
 
